@@ -3,7 +3,8 @@
 I'm a Frontend Developer interested in building clean, responsive, and user-friendly web applications.
 ## Skills
 - HTML, CSS, JavaScript
-- React.js
+- UI UX designer
+- Website Designer
 - Git & GitHub
 - UI Implementation
 - Responsive Design
@@ -14,3 +15,4 @@ I'm a Frontend Developer interested in building clean, responsive, and user-frie
 ## Contact
 - Email: your-email@example.com
 - LinkedIn: your-linkedin-link
+- zahraa.zuhair@proton.me
