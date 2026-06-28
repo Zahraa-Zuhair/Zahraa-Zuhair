@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Zahraa-Zuhair/Zahraa-Zuhair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Zahraa 👋
+I'm a Frontend Developer interested in building clean, responsive, and user-friendly web applications.
+## Skills
+- HTML, CSS, JavaScript
+- React.js
+- Git & GitHub
+- UI Implementation
+- Responsive Design
+## Currently Learning
+- Advanced React
+- API Integration
+- Clean Code Practices
+## Contact
+- Email: your-email@example.com
+- LinkedIn: your-linkedin-link
