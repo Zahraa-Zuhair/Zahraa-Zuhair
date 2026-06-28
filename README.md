@@ -13,6 +13,6 @@ I'm a Frontend Developer interested in building clean, responsive, and user-frie
 - API Integration
 - Clean Code Practices
 ## Contact
-- Email: your-email@example.com
+- Email: zahraa.zuhair@proton.me
 - LinkedIn: your-linkedin-link
-- zahraa.zuhair@proton.me
+  
